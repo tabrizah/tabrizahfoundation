@@ -58,14 +58,6 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#clients">
-                                            <span>Customer Stories</span>
-                                            <span class="link-icon inline-flex hide-if-empty right-icon">
-                                                <i class="lqd-icn-ess icon-ion-ios-arrow-down"></i>
-                                            </span>
-                                        </a>
-                                    </li>
-                                    <li>
                                         <a href="#contact">
                                             <span>Contact</span>
                                             <span class="link-icon inline-flex hide-if-empty right-icon">
@@ -128,14 +120,6 @@
                                                             <a class="w-full text-20 text-black font-medium leading-1/5em" href="#services">
                                                                 <span>Services</span>
                                                                 <span class="submenu-expander absolute inline-flex right-0"></span>
-                                                            </a>
-                                                        </li>
-                                                        <li>
-                                                            <a class="w-full text-20 text-black font-medium leading-1/5em" href="#clients">
-                                                                <span>Customer Stories</span>
-                                                                <span class="link-icon inline-flex hide-if-empty right-icon">
-                                                                    <i class="lqd-icn-ess icon-ion-ios-arrow-down"></i>
-                                                                </span>
                                                             </a>
                                                         </li>
                                                         <li>
